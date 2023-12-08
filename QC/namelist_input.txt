@@ -1,0 +1,6 @@
+&input
+input_path='/space/cmadaas/dpl/NMIC_BASE_DATASET/LHVI/QC/input/2023/202303/20230317/23/',
+output_path='/space/cmadaas/dpl/NMIC_BASE_DATASET/LHVI/QC/output/2023/202303/20230317/23/',
+stationlist='/space/cmadaas/dpl/NMIC_BASE_DATASET/LHVI/QC/filename_2023.TXT',
+iby=2023
+iey=2023

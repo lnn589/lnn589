@@ -1,0 +1,5 @@
+{
+    "dataCode": "SURF_GLB_HOR_INTEG_PROD",
+    "interface": "getSurfEleByTimeRange",
+    "elements": "Year,Mon,Day,Hour,Min,Station_Id_C,WIN_D,WIN_S,TEM,DPT,RHU,PRS,PRS_Sea,PRS_HWC,GPH,PRS_Trend,PRS_Change_3h,PRE_1h,PRE_2h,PRE_3h,PRE_6h,PRE_9h,PRE_12h,PRE_15h,PRE_18h,PRE_24h,V_TYPE_REPORT"
+}
